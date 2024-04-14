@@ -1,0 +1,38 @@
+{
+    "package_sdk": {
+        "com.hyrftmvb.indonesia": "indonesia",
+        "com.rlqkmv.sysdk": "sysdk",
+        "com.hyrftmvb.sysdk": "sysdk",
+        "com.fpx.ninja.rebirth.en": "funpax",
+        "com.nr.monster.reborn": "funpax",
+        "com.ninja.reborn.monster": "funpax",
+        "com.nr.apk": "funpax",
+        "com.nr.tf.naruto": "funpax",
+        "nr.ios.en.ninja": "funpax",
+        "com.nrmr.apk": "funpax",
+        "com.fpx.hello.ninja.apk": "funpax",
+        "game.ninja.rebirth.hero.en": "funpax",
+        "com.nr.tf.ios": "funpax",
+        "com.nr.gp3.apk": "funpax",
+        "com.ninjarebirth.android": "funpax",
+        "com.nrmr.gp4.apk": "funpax",
+        "com.nr.apkpure": "funpax",
+        "com.nr.web": "funpax",
+        "com.ninja.rebirth.gp": "funpax",
+        "com.fpx.ninja.gp": "funpax"
+    },
+    "language_list": [
+        "en",
+        "zh",
+        "tw",
+        "vn",
+        "th",
+        "in"
+    ],
+    "show_all_server": {
+        "funpax_918532": "test",
+        "funpax_835257": "test",
+        "funpax_906351": "funpax",
+        "funpax_995731": "test"
+    }
+}
