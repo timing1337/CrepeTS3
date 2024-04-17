@@ -28,7 +28,7 @@ export default class GameHero {
         this.level = level;
         this.exp = exp;
         
-        numberMap(1, 10).forEach(id => this.skillsMap.set(id, 1))
+        numberMap(1, 10).forEach(id => this.skillsMap.set(id, 50))
         numberMap(1, 6).forEach(id => this.equipsMap.set(id, 0))
     }
     

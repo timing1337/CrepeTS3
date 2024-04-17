@@ -26,7 +26,7 @@ export default class Player {
 
         //storage
         ResourceManager.heros.forEach((value, key) => {
-            if(value.qualities.has(15)) this.heros.set(value.id, new GameHero(this, value.id, 14, 200, 0))
+            if(value.qualities.has(15)) this.heros.set(value.id, new GameHero(this, value.id, 17, 200, 0))
         });
     }
 

@@ -51,4 +51,15 @@ export default class HeroesRoutes {
             error: {}
         });
     }
+
+    @Route('BeforeSpecialFight')
+    public BeforeSpecialFight(params: object, player: Player) {
+        player.sendPacket('BeforeSpecialFight', {
+            data: {
+                items: [],
+                sign: 'shut-the-fuck-up' //hardcoded
+            },
+            error: {}
+        });
+    }
 }
